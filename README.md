@@ -1,4 +1,4 @@
-# Facial Expression Recognition Challenge | ემოციების ამოცნობა სახის გამოსახულებიდან
+# Facial Expression Recognition Challenge 
 
 **Kaggle Competition:**  
 [Challenges in Representation Learning: Facial Expression Recognition](https://www.kaggle.com/competitions/challenges-in-representation-learning-facial-expression-recognition-challenge)
